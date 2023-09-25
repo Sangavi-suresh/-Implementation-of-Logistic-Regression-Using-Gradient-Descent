@@ -119,44 +119,44 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 
-Array Value of x:
+# Array Value of x:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/d119286b-e0ba-4c5f-8849-63ea88626594)
 
-Array Value of y:
+# Array Value of y:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/6185e27b-06f3-4057-b4f2-86bf61813f53)
 
-Exam 1 - score graph:
+# Exam 1 - score graph:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/d52cabd8-06e7-4818-bfff-be70d666bed4)
 
-Sigmoid function graph:
+# Sigmoid function graph:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/511edda4-94d9-4610-a742-4132f863505a)
 
-X_train_grad value:
+# X_train_grad value:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/1fd79dec-8c97-4ff9-9064-aaccc3e9eb91)
 
-Y_train_grad value:
+# Y_train_grad value:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/215d34c5-e3ce-467b-ae45-c7c79539ff3e)
 
-Print res.x:
+# Print res.x:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/d16e847b-389d-41a8-ac7a-67c833dd9947)
 
 
-Decision boundary - graph for exam score:
+# Decision boundary - graph for exam score:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/7657c526-980a-4c92-b33d-46ab2642425d)
 
-Proability value:
+# Proability value:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/32eb1d16-4cd6-4e13-ace8-d0538be161d5)
 
-Prediction value of mean:
+# Prediction value of mean:
 
 ![image](https://github.com/Sangavi-suresh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541861/f81b488c-9f1a-44c6-9c41-054ee5278a9d)
 
